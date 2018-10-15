@@ -21,11 +21,18 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "English/French/Japanese/Urdu"
+  description = ""  
+
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "2.7 and 3.5"
+  description = "2.7 and 3.7"
 
 [[feature]]
   icon = "chart-line"
@@ -34,16 +41,23 @@ weight = 7
   description = "Up to 2018b version"
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "Multivariate Statistics"
-  description = ""  
-  
+  name = "Programming"
+  description = "C++/Java/Bash"  
+
 [[feature]]
-  icon = "signature"
+  icon = "file-invoice-dollar"
   icon_pack = "fas"
-  name = "Wavelet analysis"
+  name = "Latex"
+  description = "Including TikZ/pgfplots"  
+
+[[feature]]
+  icon = "images"
+  icon_pack = "fas"
+  name = "Photoshop/Illustrator/Inkscape"
   description = ""  
+
 
 
 +++
