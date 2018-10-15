@@ -25,7 +25,7 @@ weight = 7
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "English/French/Japanese/Urdu"
+  name = "English, French, Japanese, Urdu"
   description = ""  
 
 [[feature]]
@@ -44,7 +44,7 @@ weight = 7
   icon = "terminal"
   icon_pack = "fas"
   name = "Programming"
-  description = "C++/Java/Bash"  
+  description = "C++, Java, Bash"  
 
 [[feature]]
   icon = "file-invoice-dollar"
@@ -55,7 +55,7 @@ weight = 7
 [[feature]]
   icon = "images"
   icon_pack = "fas"
-  name = "Photoshop/Illustrator/Inkscape"
+  name = "Photoshop, Illustrator, Inkscape"
   description = ""  
 
 
