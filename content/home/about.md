@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I am currently a Phd student at CentraleSupélec SONDRA under the supervision of Jean-Philippe Ovarlez and Guillaume Ginolhac. My work is focused on the exploitation of Time Series of Synthetic Aperture Radar (SAR) images.
+I am currently a Phd student at CentraleSupélec SONDRA under the supervision of [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html) and [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac). My work is focused on the exploitation of Time Series of Synthetic Aperture Radar (SAR) images.
