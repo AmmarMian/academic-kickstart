@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 9
+weight = 10
 
 +++
 
@@ -19,7 +19,5 @@ I am currently teaching at the Institut Universitaire de Technologie (IUT) of Or
 
 * Projet NAO: Managing students for a robotic project on NAO robots. Febuary 2017 - April 2017. `23 hours`
 * Java: Introductory courses. Mars 2017 - June 2017. `25 hours`
-* Architecture des ordinateurs: Introductory courses to micro-processors and assembly language. May 2017 - June 2017 `20 hours`
-* C++: Introductory courses to programming. Septembre 2017 - Novembre 2017. `35 hours`
-* Architecture des ordinateurs: Introductory courses to micro-processors and assembly language. May 2018 - June 2018 `20 hours`
-* C++: Introductory courses to programming. Septembre 2018 - Novembre 2018. `35 hours`
+* Architecture des ordinateurs: Introductory courses to micro-processors and assembly language. May 2017 - June 2017 and May 2018 - June 2018 `40 hours`
+* C++: Introductory courses to programming. Septembre 2017 - Novembre 2017 and Septembre 2018 - Novembre 2018. `70 hours`

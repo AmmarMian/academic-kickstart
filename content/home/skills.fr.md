@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Compétences"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,20 +25,20 @@ weight = 65
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "English, French, Japanese, Urdu"
+  name = "Anglais, Japonais, Ourdou"
   description = ""  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "2.7 and 3.7"
+  description = "2.7 et 3.7"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Matlab"
-  description = "Up to 2018b version"
+  description = "Jusqu'à la version 2018b"
 
 [[feature]]
   icon = "terminal"
@@ -50,7 +50,7 @@ weight = 65
   icon = "file-invoice-dollar"
   icon_pack = "fas"
   name = "Latex"
-  description = "Including TikZ/pgfplots"  
+  description = "Incluant TikZ/pgfplots"  
 
 [[feature]]
   icon = "images"
