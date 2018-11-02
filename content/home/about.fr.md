@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Je suis actuellement doctorant en traitement du signal au Laboratoire SONDRA à CentraleSupélec. J'effectue ma thèse sous la direction de [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html) et de [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac).
+Je suis actuellement doctorant en traitement du signal au Laboratoire SONDRA à CentraleSupélec. J'effectue ma thèse sous la direction de [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html), de [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac) ansi que de [Abdourrahmane M. ATTO ](http://am.atto.free.fr/).
 
 Mon travail consiste à développer des méthodologies pour le traitement des séries temporelles d'images SAR.
