@@ -343,12 +343,24 @@ enableGitInfo = false
 
 # Uncomment the lines below to configure your website in a second language.
 [languages.fr]
-  languageCode = "Fr"
-  title = "Ammar Mian"
-  [languages.fr.params]
-    name = "Ammar Mian"
-    role = "Doctorant en traitement du signal"
-  [[languages.fr.menu.main]]
-    name = "Acceuil"
-    url = "#about"
-    weight = 1
+	languageCode = "Fr"
+	title = "Ammar Mian"
+[languages.fr.params]
+	name = "Ammar Mian"
+	role = "Doctorant en traitement du signal"
+[[languages.fr.menu.main]]
+	name = "Accueil"
+	url = "#about"
+	weight = 1
+[[languages.fr.menu.main]]
+  name = "Publications"
+  url = "publication"
+  weight = 2
+[[languages.fr.menu.main]]
+  name = "Recherche"
+  url = "#search"
+  weight = 3
+[[languages.fr.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
