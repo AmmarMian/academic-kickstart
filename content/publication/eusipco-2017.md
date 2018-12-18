@@ -22,8 +22,8 @@ abstract_short = "A novel methodology for bi-date Change Detection in High-resol
 selected = true
 
 # Links (optional).
-url_pdf = "pdf/eusipco_paper_2017.pdf"
-url_preprint = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8081548/"
+url_preprint = "pdf/eusipco_paper_2017.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

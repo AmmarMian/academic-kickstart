@@ -11,7 +11,7 @@ authors = ["Ammar Mian", "Jean-Philippe Ovarlez", "Guillaume Ginolhac", "Abdoura
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *26th European Signal Processing Conference*"
+publication = "In *26th European Signal Processing Conference*, Roma, Italy, 2018, pp. 1097-1101."
 publication_short = "In *EUSIPCO*"
 
 # Abstract and optional shortened version.
@@ -23,11 +23,11 @@ abstract_short = "An algorithm for robust change detection on multivariate image
 selected = true
 
 # Links (optional).
-url_pdf = "pdf/eusipco_paper_2018.pdf"
-url_preprint = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8553285"
+url_preprint = "pdf/eusipco_paper_2018.pdf"
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "http://am.atto.free.fr/index_phoenix.htm"
 url_slides = ""
 url_video = ""
 url_poster = "pdf/eusipco_poster_2018.pdf"

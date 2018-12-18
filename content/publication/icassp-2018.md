@@ -11,7 +11,7 @@ authors = ["Ammar Mian", "Jean-Philippe Ovarlez", "Guillaume Ginolhac", "Abdoura
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *43rd International Conference on Acoustics, Speech and Signal Processing*"
+publication = "In *2018 IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), Calgary, AB, 2018, pp. 3429-3433."
 publication_short = "In *ICASSP 2018*"
 
 # Abstract and optional shortened version.
@@ -21,11 +21,11 @@ abstract = "In this paper, we propose new detectors for Change Detection between
 selected = true
 
 # Links (optional).
-url_pdf = "pdf/icassp_paper_2018.pdf"
-url_preprint = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8462253"
+url_preprint = "pdf/icassp_paper_2018.pdf"
 url_code = "https://github.com/AmmarMian/DemonstrationANRPhoenix"
 url_dataset = ""
-url_project = ""
+url_project = "http://am.atto.free.fr/index_phoenix.htm"
 url_slides = ""
 url_video = ""
 url_poster = "pdf/icassp_poster_2018.pdf"
