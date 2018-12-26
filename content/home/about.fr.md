@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Analyse multivariée et statistiques",
+    "Analyse multivariée et statistique",
     "Analyse temps-fréquence",
     "Télédétection"
   ]

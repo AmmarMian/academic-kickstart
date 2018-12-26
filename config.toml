@@ -364,3 +364,27 @@ enableGitInfo = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+
+[languages.ja]
+  languageCode = "Ja"
+  title = "Ammar Mian"
+[languages.ja.params]
+  name = "Ammar Mian"
+  role = "博士課程の学生"
+[[languages.ja.menu.main]]
+  name = "ホーム"
+  url = "#about"
+  weight = 1
+[[languages.ja.menu.main]]
+  name = "論文リスト "
+  url = "publication"
+  weight = 2
+[[languages.ja.menu.main]]
+  name = "検索"
+  url = "#search"
+  weight = 3
+[[languages.ja.menu.main]]
+  name = "連絡"
+  url = "#contact"
+  weight = 6
