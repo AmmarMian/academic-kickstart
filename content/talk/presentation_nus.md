@@ -7,7 +7,7 @@ authors = []
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-04-01T10:00:00
+time_start = 2019-04-01T11:30:00
 #time_end = 2030-06-01T15:00:00
 all_day = false
 
