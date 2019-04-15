@@ -281,13 +281,13 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "publication"
-  weight = 2
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Search"
@@ -358,17 +358,21 @@ enableGitInfo = false
 	url = "#about"
 	weight = 1
 [[languages.fr.menu.main]]
-  name = "Publications"
-  url = "publication"
+  name = "Présentations"
+  url = "#talks"
   weight = 2
+[[languages.fr.menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 [[languages.fr.menu.main]]
   name = "Recherche"
   url = "#search"
-  weight = 3
+  weight = 4
 [[languages.fr.menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 
 [languages.ja]
@@ -381,15 +385,19 @@ enableGitInfo = false
   name = "ホーム"
   url = "#about"
   weight = 1
+ [[languages.ja.menu.main]]
+  name = " トーク"
+  url = "#talks"
+  weight = 2
 [[languages.ja.menu.main]]
   name = "論文リスト "
-  url = "publication"
-  weight = 2
+  url = "#publications"
+  weight = 3
 [[languages.ja.menu.main]]
   name = "検索"
   url = "#search"
-  weight = 3
+  weight = 4
 [[languages.ja.menu.main]]
   name = "連絡"
   url = "#contact"
-  weight = 6
+  weight = 5
