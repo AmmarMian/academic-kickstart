@@ -1,63 +1,35 @@
 +++
-# Feature/Skill widget.
-widget = "featurette"  # Do not modify this line!
-date = 2017-09-20T00:00:00
-
-# Activate this widget? true/false
-active = true
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = false  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
-
-# Order that this section will appear in.
-weight = 65
 
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# Available icon packs and icons:
-# * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
-# * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
-# * ai - academic icons (see https://jpswalsh.github.io/academicons/)
-
-  
-[[feature]]
-  icon = "language"
-  icon_pack = "fas"
-  name = "English, French, Japanese, Urdu"
-  description = ""  
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Python"
-  description = "2.7 and 3.7"
-
+  name = "R"
+  description = "90%"
+  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Matlab"
-  description = "Up to 2018b version"
-
+  name = "Statistics"
+  description = "100%"  
+  
 [[feature]]
-  icon = "terminal"
+  icon = "camera-retro"
   icon_pack = "fas"
-  name = "Programming"
-  description = "C++, Java, Bash"  
-
-[[feature]]
-  icon = "file-invoice-dollar"
-  icon_pack = "fas"
-  name = "Latex"
-  description = "Including TikZ/pgfplots"  
-
-[[feature]]
-  icon = "images"
-  icon_pack = "fas"
-  name = "Photoshop, Illustrator, Inkscape"
-  description = ""  
-
-
+  name = "Photography"
+  description = "10%"
 
 +++
