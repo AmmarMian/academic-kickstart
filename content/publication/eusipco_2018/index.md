@@ -9,7 +9,7 @@ date: "2018-09-3"
 doi: "10.23919/EUSIPCO.2018.8553285"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2018-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
