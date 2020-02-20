@@ -57,6 +57,9 @@ date_format = "Jan 2006"
   **Contributions to SAR Image Time Series Analysis**
 
   Under the supervision of [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html), [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac) and [Abdourrahmane M. ATTO ](http://am.atto.free.fr/).
+
+  Manuscript available [here](https://tel.archives-ouvertes.fr/tel-02464840). Slides of defense available [here](../talks/These.pdf).
+
   """
 
 [[experience]]
@@ -70,7 +73,7 @@ date_format = "Jan 2006"
   **Analysis of GNSS reflectometry data of the space mission TechDemoSat-1**
 
   Under the supervision of François Soulat, I was in charge of developing algorithms to process the DDM (Delay Doppler Map) data of the TechDemoSat-1 in order to retrieve wind speed over the oceans.
-  [Master thesis:](report_internship_cls.pdf)
+  Master thesis available [here](report_internship_cls.pdf).
    """
 
 +++

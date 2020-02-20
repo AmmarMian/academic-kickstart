@@ -27,7 +27,10 @@ date_format = "Jan 2006"
   description = """
   **Contributions to SAR Image Time Series Analysis**
 
-  Under the supervision of [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html), [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac) and [Abdourrahmane M. ATTO ](http://am.atto.free.fr/). 
+  Under the supervision of [Jean-Philippe Ovarlez](http://jeanphilippeovarlez.com/Homepage_de_Ovarlez_Jean-Philippe/Bienvenue.html), [Guillaume Ginolhac](https://www.researchgate.net/profile/Guillaume_Ginolhac) and [Abdourrahmane M. ATTO ](http://am.atto.free.fr/).
+
+  Manuscript available [here](https://tel.archives-ouvertes.fr/tel-02464840). Slides of defense available [here](../talks/These.pdf).
+
   """
 
 [[experience]]
