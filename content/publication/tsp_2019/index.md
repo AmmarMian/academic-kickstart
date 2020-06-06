@@ -24,7 +24,7 @@ publication_short: In *TSP*
 abstract: This paper explores the problem of change detection in time series of heterogeneous multivariate synthetic aperture radar images. Classical change detection schemes have modeled the data as a realization of Gaussian random vectors and have derived statistical tests under this assumption. However, when considering high-resolution images, the heterogeneous behavior of the scatterers is not well described by a Gaussian model. In this paper, the data model is extended to spherically invariant random vectors where the heterogeneity of the images is accounted for through a deterministic texture parameter. Then, three separate detection problems are considered and generalized likelihood ratio test technique is used to derive statistical tests for each problem. The constant false alarm rate property of the new statistics are studied both theoretically and through simulation. Finally, the performance of the new statistics are studied both in simulation and on real synthetic aperture radar data and compared to Gaussian-derived ones. The study yields promising results when the data are heterogeneous.
 
 # Summary. An optional shortened abstract.
-summary: Robust statisitcs for High-Resolution SAR images.
+summary: Robust statistics for High-Resolution SAR images.
 
 tags:
 featured: true
