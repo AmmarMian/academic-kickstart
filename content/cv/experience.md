@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Associate professor"
+  company = "Université Savoie Mont Blanc"
+  company_url = "https://www.univ-smb.fr"
+  location = "Annecy, France"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """ Research at [LISTIC](https://www.listic.univ-smb.fr/en/home/) and teaching at [Polytech Annecy-Chambéry](https://www.polytech.univ-smb.fr).
+  """
+
+[[experience]]
   title = "Post-doc"
   company = "Aalto University"
   company_url = "https://www.aalto.fi/en/school-of-electrical-engineering"
   location = "Helsinki, Finland"
   date_start = "2019-10-01"
-  date_end = "2020-09-30"
+  date_end = "2020-08-31"
   description = """ Under the supervision of [Prof. Esa Ollila](http://users.spa.aalto.fi/esollila/)
   """
 

@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral researcher in Signal Processing
+role: Maître de conférences (Associate professor)
 
 # Organizations/Affiliations
 organizations:
-- name: Aalto University
-  url: "https://www.aalto.fi/en"
+- name: Université Savoie Mont Blanc
+  url: "https://www.univ-smb.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doc in Signal Processing. My interest includes Riemannian Geometry, Multivariate Statistical Analysis, Machine learning and Remote Sensing.
+bio: Associate professor at Université Savoie Mont Blanc. Interested in Signal Processing. My interest includes Riemannian Geometry, Multivariate Statistical Analysis, Machine learning and Remote Sensing.
 
 interests:
 - Mutivariate Statistical Analysis
@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a post-doc at [Aalto University](https://www.aalto.fi/en) in the Dept. of Signal Processing and Acoustics working under the supervision of [Esa Ollila](http://users.spa.aalto.fi/esollila/). My main focus concerns the use of Riemannian Geometry tools in Machine Learning applictions.
+I am an associate professor at [Université Savoie Mont Blanc](https://www.univ-smb.fr/) where I do my research in the [LISTIC](https://www.listic.univ-smb.fr/en/home/) lab. I teach in [Polytech Annecy-Chambéry](https://www.polytech.univ-smb.fr).
