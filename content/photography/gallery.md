@@ -13,6 +13,8 @@ headless = true  # This file represents a page section.
 # Some Photographs
 
 {{< figure library="true" src="photography/P1002364.jpg" title="Lammassaari, Helsinki, Finland"  lightbox="true" >}}
+{{< figure library="true" src="photography/P1003643.jpg" title="Le Havre, France"  lightbox="true" >}}
+{{< figure library="true" src="photography/P1003954.jpg" title="Etretat, France"  lightbox="true" >}}
 {{< figure library="true" src="photography/tree.jpg" title="Tree stump" lightbox="true" >}}
 {{< figure library="true" src="photography/20200204191455.jpg" title="Moon"  lightbox="true" >}}
 {{< figure library="true" src="photography/20200207211729.jpg" title="Helsinki Tram" lightbox="true" >}}
