@@ -12,6 +12,8 @@ headless = true  # This file represents a page section.
 
 # Some Photographs
 
+{{< figure library="true" src="photography/col_forclat.png" title="Annecy Lake from Col de la Forclat, France"  lightbox="true" >}}
+
 {{< figure library="true" src="photography/P1002364.jpg" title="Lammassaari, Helsinki, Finland"  lightbox="true" >}}
 {{< figure library="true" src="photography/P1003643.jpg" title="Le Havre, France"  lightbox="true" >}}
 {{< figure library="true" src="photography/P1003954.jpg" title="Etretat, France"  lightbox="true" >}}
