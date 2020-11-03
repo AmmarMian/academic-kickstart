@@ -30,8 +30,8 @@ featured: true
 
 links:
 url_pdf: pdf/eusipco_paper_2020.pdf
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/AmmarMian/Comparative_study_pedestrian_Eusipco'
+url_dataset: 'http://pascal.inrialpes.fr/data/human/'
 url_poster: ''
 url_project: ''
 url_slides: ''
