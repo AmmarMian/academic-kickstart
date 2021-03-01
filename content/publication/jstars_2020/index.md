@@ -2,6 +2,7 @@
 title: "Robust Low-rank Change Detection for Multivariate SAR Image Time Series"
 authors:
 - admin
+- Antoine Collas
 - Arnaud Breloy
 - Guillaume Ginolhac
 - Jean-Philippe Ovarlez
